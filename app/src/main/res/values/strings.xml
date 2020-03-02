@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Conversion</string>
+    <string name="rupiah_ke_dollar">Rupiah ke Dollar</string>
+    <string name="dollar_ke_rupiah">Dollar ke Rupiah</string>
+    <string name="rupiah_ke_euro">Rupiah ke Euro</string>
+    <string name="euro_ke_rupiah">Euro ke Rupiah</string>
+    <string name="rupiah_ke_pounds">Rupiah ke Pounds</string>
+    <string name="pounds_ke_rupiah">Pounds ke Rupiah</string>
+    <string name="rupiah_ke_yen">Rupiah ke Yen</string>
+    <string name="yen_ke_rupiah">Yen ke Rupiah</string>
+    <string name="rupiah_ke_ringgit">Rupiah ke Ringgit</string>
+    <string name="ringgit_ke_rupiah">Ringgit ke Rupiah</string>
+    <string name="nilai_tukar_mata_uang">Nilai Tukar Mata Uang</string>
+    <string name="input_value">Masukkan Nilai :</string>
+    <string name="process">Proses</string>
+</resources>
